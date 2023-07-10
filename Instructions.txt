@@ -1,0 +1,24 @@
+Drone Management System - Instructions
+
+1. Compilation:
+   - Open a C++ compiler or IDE of your choice.
+   - Create a new C++ project or file.
+   - Copy and paste the provided code into the project or file.
+
+2. Building and Running:
+   - Compile the code using the compiler or IDE.
+   - Run the compiled program.
+   - The Drone Management System will prompt you with a menu.
+
+3. Menu Options:
+   - 'A': Add a new drone to the system. Enter the range, payload weight, and drone type as prompted.
+   - 'B': Display the information of all existing drones in the system.
+   - 'C': Deploy all drones from the system.
+   - 'D': Exit the program.
+
+4. Follow the on-screen instructions to interact with the Drone Management System.
+
+5. Customization:
+   - The program can be customized and expanded to include additional functionalities or improve existing features. Modify the code to suit your requirements.
+
+For any issues or questions, please refer to the README.md file or consult the project documentation.
